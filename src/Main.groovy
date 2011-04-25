@@ -1,4 +1,4 @@
-def name = "Matthew"
+def name = "Mahmood"
 
 println "Hello ${name}"
 
